@@ -1,0 +1,15 @@
+{
+  "version": "5.7.0",
+  "notes": "v5.7.0 — Tablero Kanban expandido al 100% con controles de densidad y colapsado de columnas, ventana de personalización con vista previa interactiva en tiempo real, rediseño corporativo de Perfil y tablas, y compatibilidad total Windows/Linux preservando todos los datos locales y en la nube.",
+  "pub_date": "2026-10-17T18:29:02.380Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRmFPaVViYysyRm1wdWN4dzJIYUw5VERCd3FwaE5DRWNyS1UrTGd5MXJFQ1lxRjJETC8wMlFnYVJybnY0M1dUeEZPNkNsMGxNb2pCVDAyVi9NdXBvU1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYxNzQxCWZpbGU6RGVzdGlueUthbmJhbl81LjcuMF94NjQtc2V0dXAuZXhlCjQ2TVhtZjNjcXl4SEVrMlhJZFhBSkk3V3U5aU5OU0hwQjZuSHoxYW1HbUtkN3Q3OHdpNTVyVU41dW1vN2NpSk9BWC9Ncmd3TC9jaDAycVFzczFOd0F3PT0K",
+      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v5.7.0/DestinyKanban_5.7.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRmMzV2pycWpUbkQ4bFJlK1lIUE0zUCtVcHVFa0dhNXJsU0lNSDljN2NxVXdCT2FGK0RxcE8wWUNLaG5RL2ZKTmVBbFVvSGpkYzFxSHZ3YVR4dmVkNEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYxNzQyCWZpbGU6RGVzdGlueUthbmJhbl81LjcuMF9hbWQ2NC5BcHBJbWFnZQp3T2tUUi9UL2JodzJJdmQ2RVNLc00xeXU0Y2d0eTNnSjUrMmVxMFlaRDlqd1RVRzBSWWtBcW02alJ2MnJlRFhZQWVFdVkrTm0rWVNVODcvUDEyMS9Cdz09Cg==",
+      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v5.7.0/DestinyKanban_5.7.0_amd64.AppImage"
+    }
+  }
+}
