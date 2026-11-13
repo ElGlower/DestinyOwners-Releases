@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "v1.1.0 — Actualización oficial multiplataforma (Windows & Linux) con preservación completa de datos locales y en la nube, tablero Kanban 100% expandido y optimización de RAM/CPU.",
-  "pub_date": "2026-11-13T03:03:15.124Z",
+  "version": "1.1.1",
+  "notes": "v1.1.1 — Actualización oficial multiplataforma (Windows & Linux) con preservación completa de datos locales y en la nube, tablero Kanban 100% expandido y optimización de RAM/CPU.",
+  "pub_date": "2026-11-13T04:41:31.290Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRmJkVWdwZU5mdTJxa2ZmNkQ5aVVmZlFnbFQ5MXZDaXRTc0Q5TFY4SnJTZStBd0VPSW1QMzkyTUhmQVFyS0VzcWhTZE1pNjBJbXd5b3EvVEhFME94QWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM4ODkwCWZpbGU6RGVzdGlueUthbmJhbl8xLjEuMF94NjQtc2V0dXAuZXhlCnBFOWo2ZWJYNGQxcml5eThWRkRBRWVwNGh5b0hnR3lMZjVTaXlaeUVuVzFFQVNvZGJmM2Rtd09xbDZ0bitLdThySDRjRUNHemsreHBzT1Nnc2xMeEJ3PT0K",
-      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v1.1.0/DestinyKanban_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRlgxWXlpRjQwSG5yUU8xU2N3anlkRlFRbzkzdCt4K3ErWXB6K3Jnb212cWdaQStid0t5YVVGUU9mR2FiRVJZUlFHZGJER0s2eEZPOEFVVkUwcHFaL1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ0ODE2CWZpbGU6RGVzdGlueUthbmJhbl8xLjEuMV94NjQtc2V0dXAuZXhlCkRKYkFrS3JYWkM4c3BPRUc5b01xOVkzaEovWERqUTYwRCtnRk9RZ0JFSmQ3akJHUWRENjRCMFRIMXFpS0dRTUkxejF5RWQ1UHI4S0NTWjQ5UnNNZkR3PT0K",
+      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v1.1.1/DestinyKanban_1.1.1_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRlo0UDRIa1JLMnhFbExjZ0xqM0V2Mm9HdHdPTjB4M0l6d1pxdWpXZGtTT3dxNFFYWUVEZDE2UWxDWG5rOXRqVDNMYVVUUHYrcVpUZi9KZ3lCL1NSSndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTM4OTY3CWZpbGU6RGVzdGlueUthbmJhbl8xLjEuMF9hbWQ2NC5BcHBJbWFnZQpWUVRtMlU3Qi8zUm84VHFTamJJSVp1UkZqNlRoZ1JWZlF2WHpJd2dvSkY4cWx0a3gxcmtIQ3BSSDlRcnRCK0hJNjA4YUpNTGJobGhxdDcxbWx2TmhDdz09Cg==",
-      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v1.1.0/DestinyKanban_1.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWG5LNisxblRuRlN4L0RPL3pYWDdtVWtVb3lOeUJpRjAxOEhRNVExVFVzNlNMb0VxMW1UN2dEVCtHN2VmcS9xdnBDV0JhdVRMRzNMWU1YdTZPMkpCK0Q5VUp0YmJNK2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ0NzIxCWZpbGU6RGVzdGlueUthbmJhbl8xLjEuMV9hbWQ2NC5BcHBJbWFnZQorTFlmdDVMQVJWY2g0Um53TCswUERKb2JoZHkvQzd0dkNDMEhZdXlBbFlJRmJzdjE2M3Q5bk1OVXdSTmhFeCsxRHlJK3Q1Y056VURja25oeUZqYWZDdz09Cg==",
+      "url": "https://github.com/ElGlower/DestinyOwners-Releases/releases/download/v1.1.1/DestinyKanban_1.1.1_amd64.AppImage"
     }
   }
 }
